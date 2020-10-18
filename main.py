@@ -12,3 +12,7 @@ print(name + " is " + format(int(newAge)) + ".")
 txt = "For only {price:.2f} dollars!"
 
 print(txt.format(price = 49))
+
+num = float(10)
+
+print(num)
